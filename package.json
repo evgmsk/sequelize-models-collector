@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-models-collector",
+  "version": "1.0.0",
+  "description": "This package gather Sequelize models into object and allow to set association within file of model declaration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evgmsk/sequelize-model-collector.git"
+  },
+  "keywords": [
+    "Sequelize"
+  ],
+  "author": "evgmsk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgmsk/issues"
+  },
+  "homepage": "https://github.com/evgmsk/sequelize-model-collector#readme"
+}
